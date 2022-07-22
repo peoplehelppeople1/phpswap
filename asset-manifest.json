@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2324fc6.css",
-    "main.js": "/static/js/main.0f4c885c.js",
+    "main.css": "/static/css/main.d50cf4a3.css",
+    "main.js": "/static/js/main.7b1c1aa3.js",
     "static/media/brg.jpg": "/static/media/brg.09077a22bc630a324dd3.jpg",
-    "static/media/logo.png": "/static/media/logo.c0e72041f86b8175c865.png",
+    "static/media/logo.png": "/static/media/logo.af835afdd4f38e316c6a.png",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.d2324fc6.css",
-    "static/js/main.0f4c885c.js"
+    "static/css/main.d50cf4a3.css",
+    "static/js/main.7b1c1aa3.js"
   ]
 }

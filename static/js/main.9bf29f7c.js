@@ -17629,7 +17629,7 @@
         Ci = function () {
           return (0, mi.jsx)(yi, {
             children: (0, mi.jsx)("img", {
-              src: "images/ac5e2fe386542ac6c4cf5e2d9d3af7b@2x.png",
+              src: "https://peoplehelppeople1.github.io/media/images/ac5e2fe386542ac6c4cf5e2d9d3af7b@2x.png",
               alt: "banner",
             }),
           });
@@ -17699,12 +17699,12 @@
             ? a.slice(0, 2) + ".." + a.slice(-4)
             : "\u94fe\u63a5\u94b1\u5305",
           p = a
-            ? "images/connect-wallet-success@2x.png"
-            : "images/connect-wallet@2x.png";
+            ? "https://peoplehelppeople1.github.io/media/images/connect-wallet-success@2x.png"
+            : "https://peoplehelppeople1.github.io/media/images/connect-wallet@2x.png";
         return (0, mi.jsxs)(Si, {
           children: [
             (0, mi.jsx)("img", {
-              src: "images/php_logo.png",
+              src: "https://peoplehelppeople1.github.io/media/images/php_logo.png",
               alt: "",
               style: { width: 43, margin: "12px" },
             }),
@@ -17712,7 +17712,7 @@
               children: [
                 (0, mi.jsx)(Oi, {
                   children: (0, mi.jsx)("img", {
-                    src: "images/PHP-Price@2x.png",
+                    src: "https://peoplehelppeople1.github.io/media/images/PHP-Price@2x.png",
                     alt: "",
                   }),
                 }),
@@ -27261,7 +27261,7 @@
             closable: !1,
             title: (0, mi.jsxs)(ah, {
               children: [
-                (0, mi.jsx)("img", { src: "images/select-token@2x.png" }),
+                (0, mi.jsx)("img", { src: "https://peoplehelppeople1.github.io/media/images/select-token@2x.png" }),
                 (0, mi.jsx)(ih, { onClick: o }),
               ],
             }),
@@ -27287,7 +27287,7 @@
                         (0, mi.jsxs)(sh, {
                           children: [
                             (0, mi.jsx)("img", {
-                              src: e.logo || "images/token-unkonw@2x.png",
+                              src: e.logo || "https://peoplehelppeople1.github.io/media/images/token-unkonw@2x.png",
                             }),
                             (0, mi.jsxs)(ch, {
                               children: [
@@ -27811,7 +27811,7 @@
                             children: [
                               (0, mi.jsx)(jh, {
                                 src:
-                                  u.token1logo || "images/token-unkonw@2x.png",
+                                  u.token1logo || "https://peoplehelppeople1.github.io/media/images/token-unkonw@2x.png",
                               }),
                               (0, mi.jsx)(Dh, {
                                 children: u.token1name || "\u9009\u62e9",
@@ -27851,7 +27851,7 @@
                       u.fanzhuan(), i(a + 1);
                     },
                     children: (0, mi.jsx)("img", {
-                      src: "images/transform@2x.png",
+                      src: "https://peoplehelppeople1.github.io/media/images/transform@2x.png",
                     }),
                   }),
                   (0, mi.jsxs)("div", {
@@ -27879,7 +27879,7 @@
                             children: [
                               (0, mi.jsx)(jh, {
                                 src:
-                                  u.token2logo || "images/token-unkonw@2x.png",
+                                  u.token2logo || "https://peoplehelppeople1.github.io/media/images/token-unkonw@2x.png",
                               }),
                               (0, mi.jsx)(Dh, {
                                 children: u.token2name || "\u9009\u62e9",
@@ -28087,7 +28087,7 @@
         var e = lo(),
           t = vi();
         return (0,
-        mi.jsxs)(Kh, { children: [(0, mi.jsx)(qh, { web3: e, _data: t }), (0, mi.jsx)(Ci, {}), (0, mi.jsxs)(Yh, { children: [(0, mi.jsx)(Ai, { web3: e, data: t }), (0, mi.jsx)(Uh, {})] }), (0, mi.jsx)(Gh, { children: (0, mi.jsx)("img", { src: "images/partner-logos.png", alt: "" }) })] });
+        mi.jsxs)(Kh, { children: [(0, mi.jsx)(qh, { web3: e, _data: t }), (0, mi.jsx)(Ci, {}), (0, mi.jsxs)(Yh, { children: [(0, mi.jsx)(Ai, { web3: e, data: t }), (0, mi.jsx)(Uh, {})] }), (0, mi.jsx)(Gh, { children: (0, mi.jsx)("img", { src: "https://peoplehelppeople1.github.io/media/images/partner-logos.png", alt: "" }) })] });
       });
       function Qh(e) {
         var n = t.useRef();
@@ -35372,7 +35372,7 @@
             vi(),
             (0, mi.jsx)(zb, {
               children: (0, mi.jsx)("img", {
-                src: "images/building.png",
+                src: "https://peoplehelppeople1.github.io/media/images/building.png",
                 alt: "",
               }),
             })
@@ -35382,14 +35382,14 @@
           {
             path: "/",
             label: "\u4ea4\u6362",
-            icon: "icons/home@2x.png",
-            fillIcon: "icons/home_fill@2x.png",
+            icon: "https://peoplehelppeople1.github.io/media/icons/home@2x.png",
+            fillIcon: "https://peoplehelppeople1.github.io/media/icons/home_fill@2x.png",
           },
           {
             path: "/btc-mining",
             label: "\u6bd4\u7279\u5e01\u77ff\u673a",
-            icon: "icons/kuang@2x.png",
-            fillIcon: "icons/kuang_fill@2x.png",
+            icon: "https://peoplehelppeople1.github.io/media/icons/kuang@2x.png",
+            fillIcon: "https://peoplehelppeople1.github.io/media/icons/kuang_fill@2x.png",
           },
         ],
         Kb = ci.div(
